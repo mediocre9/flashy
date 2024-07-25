@@ -7,7 +7,7 @@ Simple and basic middleware for handling **flash messages** in Express with no a
 ```javascript
 import express from "express";
 import session from "express-session";
-import { flashy } from "flashy";
+import { flashy } from "./flashy.js";
 
 app.use(
     session({
