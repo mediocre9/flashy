@@ -1,6 +1,6 @@
 # Flashy
 
-Simple and basic middleware for handling **flash messages** in Express with no additional features.
+Simple middleware for handling **flash messages** in Express.
 
 # Usage
 
