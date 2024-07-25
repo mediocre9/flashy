@@ -1,0 +1,15 @@
+{
+    "name": "flashy",
+    "version": "1.0.0",
+    "description": "a simple middleware for handling flash messages in express.",
+    "main": "flashy.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "flash",
+        "message"
+    ],
+    "author": "mediocre9",
+    "license": "ISC"
+}
